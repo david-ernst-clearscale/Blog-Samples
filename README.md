@@ -10,7 +10,7 @@ ClearScale is an AWS Premier Tier Services Partner specializing in cloud archite
 
 ## 🚀 Featured Sample
 
-### [Automating the Automators: Dynamic AWS Lambda Creation in Event-Driven Systems](./automating-lambda-creation/)
+### [Automating the Automators: Dynamic AWS Lambda Creation in Event-Driven Systems]()
 
 Create AWS Lambda functions dynamically — from within another Lambda function — in response to real-time events such as file uploads, API calls, or streaming data.
 
